@@ -37,7 +37,7 @@ else if (XP >= "9001" && XP <= "10000")
   XP = "Imortal"
     console.log(Mensagem + XP)
 }
-else (XP >= 10001)
+else if (XP >= 10001)
 {
   XP = "Radiante"
   console.log(Mensagem + XP)
